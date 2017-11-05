@@ -1,0 +1,54 @@
+Name: - Abhinaw Gupta
+Reg No: -15bce0677
+
+1. Algorithm for finding the sortest sortest path sequential
+create a cluster cl[v]
+select a 
+while(there exist a vertex that is not the cluster cl[v])
+{
+	for(every vertices outside the cluster)
+	   we calulate the distance from non-member vertex to s through the cluster cl[V]
+	end
+    
+	select the vertex with the shortest path and add it to the cluster
+
+}
+
+Running time (V2)
+− In order to obtain the routing table, we need O(V) rounds iterations 
+(until all the vertices are included in the cluster). 
+In each round, we will update the value for O(V) vertices and select the closest 
+vertex, so the running time in each round is O(V) .
+So, the total running time is O(V2)
+
+Disadvantages: 
+
+– If the scale of the network is too large, then it will cost a long time to obtain the
+result.
+– For some time-sensitive app or real-time services, we need to reduce the running time.
+
+2. Algorithm implemeted in the project for parallel execution
+
+i) according to algorithm each core identifies its closest vertex to the source vertex
+ii) then i will perform a parallel prefix to select the globally closest vertex
+iii) Broadcast the result to all the cores
+iv) Each core updates its cluster list
+
+algorithm
+Create a cluter cl[v]
+input a souce vertex s
+
+Each core handles a subgroup of V/P vertices 
+While (there exist a vertex that is not in the cluster cl[V])
+{
+for ( vertices in my subgroup but outside the cluster)
+     Calculate the distance from non-member vertex to s through the cluster;
+     Select the vertex with the shortest path as the local closest vertex;
+END
+
+// this works in parallel with time complexity O(V/p)
+
+Use the parallel prefix to find the global closest vertex among all the local closest vertices from each core.
+** Parallel prefix log(P) **
+}
+
