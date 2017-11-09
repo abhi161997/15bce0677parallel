@@ -1,6 +1,7 @@
 import MySQLdb
 import math
 import multiprocessing
+import _thread
 
 from math import cos, asin, sqrt
 
@@ -21,12 +22,62 @@ def pathequation(x,y,x1,y1,x2,y2):
     else:
         return 0
 
-x = 1
-y = 1
-x1 = 2
-y1 = 2
-x2 = 3
-y2 = 3
 
-result = pathequation(x,y,x1,y1,x2,y2)
-print(result)
+sql1 = "select * from statelist where city_id <= 250";
+sql2 = "select * from statelist where city_id <= 500 and city_id>=251"
+sql3 = "select * from statelist where city_id <= 750 and city_id>=501"
+sql4 = "select * from statelist where city_id <= 100 and city_id>=751"
+
+
+
+
+db1 = MySQLdb.connect("localhost","root","","parallel")
+db2 = MySQLdb.connect("localhost","root","","parallel")
+db3 = MySQLdb.connect("localhost","root","","parallel")
+db4 = MySQLdb.connect("localhost","root","","parallel")
+
+c1 = db1.cursor()
+c2 = db2.cursor()
+c3 = db3.cursor()
+c4 = db4.cursor()
+
+
+#prallelprocessing function to retrive data from database
+def search(cursor, query):
+    cursor.execute(query)
+    data = cursor.fetchall()
+    for row in data:
+        lat = row[2]
+        long = row[3]
+        name = row[1]
+        print(lat+long+name)
+
+
+
+search(c1,sql1)
+search(c2,sql2)
+search(c3,sql3)
+search(c4,sql4)
+
+#time function to display when a thread started
+def print_time(threadName, delay):
+    count = 0
+    while count<5:
+        time.sleep(delay)
+        count+=1
+        print("%s: %s" % (threadName, time.ctime(time.time())))
+
+
+#executing database search query using thread diving it into 4 subgroup and executing it in parallel
+try:
+    _thread.start_new_thread(search,(c1,sql1, ))
+    _thread.start_new_thread(search,(c2,sql2, ))
+    _thread.start_new_thread(search,(c3,sql3, ))
+    _thread.start_new_thread(search,(c4,sql4, ))
+except:
+    print("Error: Unable to start thread")
+
+
+
+
+

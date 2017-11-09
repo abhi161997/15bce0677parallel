@@ -1,0 +1,753 @@
+#obtained output on travesing the database using 4 threads 
+
+11.67 N92.76 EPort Blair
+19.68 N78.53 EAdilabad
+15.63 N77.28 EAdoni
+17.50 N78.54 EAlwal
+17.69 N83.00 EAnakapalle
+14.70 N77.59 EAnantapur
+15.91 N80.47 EBapatla
+19.06 N79.49 EBelampalli
+16.55 N81.53 EBhimavaram
+17.52 N78.88 EBhongir
+18.57 N83.37 EBobbili
+18.66 N77.88 EBodhan
+16.10 N80.16 EChilakalurupet
+14.47 N78.83 EChinna Chawk
+15.84 N80.35 EChirala
+13.22 N79.10 EChittur
+14.48 N78.81 ECuddapah
+14.42 N77.71 EDharmavaram
+15.42 N77.88 EDhone
+16.72 N81.11 EEluru
+17.36 N78.52 EGaddiannaram
+16.23 N77.80 EGadwal
+17.70 N83.21 EGajuwaka
+16.44 N81.00 EGudivada
+14.15 N79.84 EGudur
+15.18 N77.37 EGuntakal
+16.31 N80.44 EGuntur
+13.83 N77.48 EHindupur
+17.40 N78.48 EHyderabad
+18.80 N78.91 EJagtial
+14.12 N78.16 EKadiri
+19.34 N79.48 EKagaznagar
+16.96 N82.24 EKakinada
+15.69 N77.77 EKallur
+18.32 N78.35 EKamareddi
+17.37 N78.48 EKapra
+18.45 N79.13 EKarimnagar
+15.83 N78.03 EKarnul
+14.92 N79.99 EKavali
+17.25 N80.15 EKhammam
+16.98 N79.97 EKodar
+15.22 N79.91 EKondukur
+18.82 N78.72 EKoratla
+17.56 N80.64 EKottagudem
+17.49 N78.41 EKukatpalle
+17.43 N78.50 ELalbahadur Nagar
+16.19 N81.14 EMachilipatnam
+16.74 N77.98 EMahbubnagar
+17.55 N78.59 EMalkajgiri
+18.88 N79.45 EMancheral
+18.97 N79.47 EMandamarri
+16.44 N80.56 EMangalagiri
+15.73 N79.28 EMarkapur
+16.87 N79.57 EMiryalaguda
+17.06 N79.26 ENalgonda
+15.49 N78.48 ENandyal
+16.45 N81.70 ENarasapur
+16.24 N80.04 ENarasaraopet
+14.46 N79.98 ENellur
+19.12 N78.35 ENirmal
+18.68 N78.10 ENizamabad
+16.78 N80.85 ENuzvid
+15.50 N80.05 EOngole
+16.52 N81.75 EPalakollu
+18.77 N84.42 EPalasa
+17.60 N80.68 EPalwancha
+17.53 N78.27 EPatancheru
+16.48 N79.90 EPiduguralla
+16.07 N80.56 EPonnur
+14.73 N78.55 EProddatur
+17.43 N78.47 EQutubullapur
+17.02 N81.79 ERajamahendri
+14.18 N79.17 ERajampet
+17.29 N78.39 ERajendranagar
+17.56 N78.04 ERamachandrapuram
+18.80 N79.45 ERamagundam
+14.05 N78.75 ERayachoti
+14.70 N76.87 ERayadrug
+17.06 N82.18 ESamalkot
+17.63 N78.08 ESangareddi
+16.40 N80.18 ESattenapalle
+17.48 N78.33 ESerilungampalle
+18.11 N78.84 ESiddipet
+17.47 N78.52 ESikandarabad
+18.40 N78.81 ESirsilla
+18.30 N83.90 ESrikakulam
+13.76 N79.70 ESrikalahasti
+17.15 N79.62 ESuriapet
+16.48 N80.60 ETadepalle
+16.82 N81.52 ETadepallegudem
+14.91 N78.00 ETadpatri
+17.25 N77.58 ETandur
+16.75 N81.69 ETanuku
+16.24 N80.65 ETenali
+13.63 N79.41 ETirupati
+17.35 N82.55 ETuni
+17.38 N78.55 EUppal Kalan
+16.52 N80.63 EVijayawada
+16.05 N79.75 EVinukonda
+17.73 N83.30 EVisakhapatnam
+18.12 N83.40 EVizianagaram
+16.37 N80.85 EVuyyuru
+16.37 N78.07 EWanparti
+18.01 N79.58 EWarangal
+15.73 N77.48 EYemmiganur
+27.14 N93.61 EItanagar
+26.32 N91.00 EBarpeta
+26.48 N90.54 EBongaigaon
+26.03 N89.97 EDhuburi
+27.49 N94.91 EDibrugarh
+25.84 N93.43 EDiphu
+26.19 N91.75 EGuwahati
+26.76 N94.20 EJorhat
+24.85 N92.36 EKarimganj
+27.24 N94.10 ELakhimpur
+25.93 N92.95 ELanka
+26.35 N92.68 ENagaon
+26.99 N94.63 ESibsagar
+24.83 N92.77 ESilchar
+26.63 N92.79 ETezpur
+27.50 N95.36 ETinsukia
+26.50 N89.53 EAlipur Duar
+22.88 N87.78 EArambagh
+23.69 N86.98 EAsansol
+22.84 N88.63 EAshoknagar Kalyangarh
+24.10 N88.24 EBaharampur
+22.79 N88.33 EBaidyabati
+22.48 N88.17 EBaj Baj
+22.65 N88.35 EBally
+22.65 N88.36 EBally Cantonment
+25.23 N88.77 EBalurghat
+23.05 N88.83 EBangaon
+22.58 N88.31 EBankra
+23.24 N87.07 EBankura
+22.95 N88.40 EBansbaria
+22.64 N88.37 EBaranagar
+23.24 N87.86 EBarddhaman
+22.66 N88.86 EBasirhat
+22.84 N88.35 EBhadreswar
+22.89 N88.42 EBhatpara
+22.57 N88.42 EBidhannagar
+26.74 N89.037 EBinnaguri
+23.08 N87.33 EBishnupur
+23.67 N87.70 EBolpur
+22.57 N88.36 ECalcutta
+22.48 N88.35 EChakdaha
+22.81 N88.34 EChampdani
+22.89 N88.37 EChandannagar
+21.79 N87.75 EContai
+Dabgram
+27.05 N88.26 EDarjiling
+24.68 N87.97 EDhulian
+26.13 N89.47 EDinhata
+22.63 N88.42 EDum Dum
+23.50 N87.31 EDurgapur
+25.40 N88.52 EGangarampur
+22.83 N88.37 EGarulia
+22.98 N88.51 EGayespur
+22.67 N87.72 EGhatal
+Gopalpur
+22.84 N88.62 EHabra
+22.95 N88.42 EHalisahar
+22.58 N88.33 EHaora
+22.91 N88.40 EHugliChunchura
+25.01 N88.14 EIngraj Bazar
+26.27 N88.20 EIslampur
+26.53 N88.71 EJalpaiguri
+23.70 N87.08 EJamuria
+24.47 N88.07 EJangipur
+22.45 N86.98 EJhargram
+25.63 N88.32 EKaliyaganj
+23.22 N88.37 EKalna
+22.98 N88.48 EKalyani
+22.67 N88.37 EKamarhati
+22.95 N88.45 EKanchrapara
+23.95 N88.03 EKandi
+26.88 N88.28 EKarsiyang
+23.65 N88.13 EKatwa
+22.34 N87.31 EKharagpur
+22.34 N87.26 EKharagpur Railway Settlement
+22.73 N88.38 EKhardaha
+Kharia
+26.33 N89.46 EKoch Bihar
+22.70 N88.36 EKonnagar
+23.41 N88.51 EKrishnanagar
+23.72 N86.89 EKulti
+22.70 N88.45 EMadhyamgram
+22.51 N88.23 EMaheshtala
+23.20 N88.12 EMemari
+22.33 N87.15 EMidnapur
+22.91 N88.43 ENaihati
+23.42 N88.37 ENavadwip
+22.77 N88.36 ENi Barakpur
+22.78 N88.37 ENorth Barakpur
+22.64 N88.41 ENorth Dum Dum
+Old Maldah
+22.69 N88.37 EPanihati
+23.24 N88.50 EPhulia
+22.47 N88.15 EPujali
+23.34 N86.36 EPuruliya
+25.62 N88.12 ERaiganj
+22.44 N88.44 ERajpur
+24.17 N87.78 ERampur Hat
+23.19 N88.58 ERanaghat
+23.62 N87.11 ERaniganj
+22.71 N88.36 ERishra
+23.26 N88.44 EShantipur
+26.73 N88.42 EShiliguri
+22.74 N88.35 EShrirampur
+23.91 N87.53 ESiuri
+22.61 N88.41 ESouth Dum Dum
+22.74 N88.38 ETitagarh
+22.47 N88.11 EUlubaria
+22.66 N88.35 EUttarparaKotrung
+26.15 N87.52 EAraria
+25.56 N84.66 EArrah
+24.75 N84.37 EAurangabad
+27.10 N84.09 EBagaha
+25.42 N86.12 EBegusarai
+26.81 N84.50 EBettiah
+25.05 N83.62 EBhabua
+25.26 N86.98 EBhagalpur
+25.21 N85.52 EBihar
+25.58 N83.98 EBuxar
+25.78 N84.72 EChhapra
+26.16 N85.88 EDarbhanga
+24.91 N84.18 EDehri
+DighaMainpura
+25.64 N85.04 EDinapur
+25.55 N84.15 EDumraon
+24.81 N85.00 EGaya
+26.47 N84.43 EGopalganj
+Goura
+Hajipur
+25.22 N84.98 EJahanabad
+25.32 N86.48 EJamalpur
+24.92 N86.22 EJamui
+25.55 N87.57 EKatihar
+25.50 N86.48 EKhagaria
+25.58 N85.05 EKhagaul
+26.11 N87.95 EKishanganj
+25.18 N86.09 ELakhisarai
+25.92 N86.78 EMadhipura
+26.37 N86.06 EMadhubani
+25.35 N85.03 EMasaurhi
+25.40 N85.92 EMokama
+26.66 N84.91 EMotihari
+25.39 N86.47 EMunger
+26.13 N85.38 EMuzaffarpur
+24.88 N85.54 ENawada
+25.62 N85.13 EPatna
+25.60 N85.13 EPhulwari
+25.78 N87.47 EPurnia
+26.98 N84.85 ERaxaul
+25.88 N86.59 ESaharsa
+25.85 N85.78 ESamastipur
+24.96 N84.01 ESasaram
+26.61 N85.48 ESitamarhi
+26.23 N84.35 ESiwan
+26.12 N86.60 ESupaul
+30.75 N76.78 EChandigarh
+23.13 N83.20 EAmbikapur
+21.21 N81.38 EBhilai
+22.09 N82.15 EBilaspur
+21.23 N81.50 ECharoda
+23.21 N82.41 EChirmiri
+20.71 N81.55 EDhamtari
+21.20 N81.28 EDurg
+19.09 N82.03 EJagdalpur
+22.35 N82.69 EKorba
+21.90 N83.39 ERaigarh
+21.24 N81.63 ERaipur
+21.10 N81.04 ERajnandgaon
+28.74 N77.17 EBhalswa Jahangirpur
+Burari
+Chilla Saroda Bangar
+Dallo Pura
+28.67 N77.21 EDelhi
+28.49 N77.22 EDeoli
+28.57 N77.16 EDilli Cantonment
+Gharoli
+28.71 N77.28 EGokalpur
+Hastsal
+Jaffrabad
+Karawal Nagar
+Khajuri Khas
+Kirari Suleman Nagar
+Mandoli
+Mithe Pur
+Molarband
+Mundka
+Mustafabad
+28.68 N77.07 ENangloi Jat
+28.60 N77.22 ENi Dilli
+Pul Pehlad
+Puth Kalan
+28.60 N76.99 ERoshan Pura
+Sadat Pur Gujran
+28.76 N77.06 ESultanpur Majra
+Tajpul
+28.50 N77.22 ETigri
+Ziauddin Pur
+15.28 N73.94 EMadgaon
+15.42 N73.78 EMormugao
+15.50 N73.81 EPanaji
+23.03 N72.58 EAhmadabad
+21.61 N71.22 EAmreli
+22.56 N72.95 EAnand
+23.12 N70.02 EAnjar
+21.12 N73.12 EBardoli
+21.71 N72.97 EBharuch
+21.79 N72.13 EBhavnagar
+23.26 N69.66 EBhuj
+22.42 N72.90 EBorsad
+22.18 N71.66 EBotad
+23.15 N72.61 EChandkheda
+23.10 N72.56 EChandlodiya
+22.13 N73.41 EDabhoi
+22.84 N74.25 EDahod
+22.74 N72.44 EDholka
+21.74 N70.44 EDhoraji
+23.00 N71.46 EDhrangadhra
+24.26 N72.18 EDisa
+23.07 N70.13 EGandhidham
+23.30 N72.63 EGandhinagar
+23.05 N72.55 EGhatlodiya
+22.77 N73.60 EGodhra
+21.97 N70.80 EGondal
+23.60 N72.96 EHimatnagar
+22.47 N70.07 EJamnagar
+Jamnagar
+21.75 N70.61 EJetpur
+21.52 N70.45 EJunagadh
+23.25 N72.49 EKalol
+21.31 N70.23 EKeshod
+22.32 N72.61 EKhambhat
+21.35 N71.30 EKundla
+21.10 N71.75 EMahuva
+21.12 N70.12 EMangrol
+23.47 N73.30 EModasa
+22.82 N70.83 EMorvi
+22.70 N72.85 ENadiad
+Navagam Ghed
+20.96 N72.92 ENavsari
+21.52 N71.83 EPalitana
+23.86 N72.11 EPatan
+21.65 N69.60 EPorbandar
+Puna
+22.31 N70.79 ERajkot
+Ramod
+23.03 N72.54 ERanip
+23.92 N72.37 ESiddhapur
+21.70 N71.97 ESihor
+21.20 N72.82 ESurat
+22.71 N71.67 ESurendranagar
+Thaltej
+20.82 N71.03 EUna
+23.81 N72.38 EUnjha
+21.75 N70.27 EUpleta
+22.31 N73.18 EVadodara
+20.62 N72.92 EValsad
+20.37 N72.90 EVapi
+Vastral
+Vejalpur
+20.92 N70.34 EVeraval
+Vijalpor
+23.71 N72.54 EVisnagar
+22.73 N71.72 EWadhwan
+30.38 N76.77 EAmbala
+30.39 N76.86 EAmbala Cantonment
+30.35 N76.84 EAmbala Sadar
+28.69 N76.92 EBahadurgarh
+28.81 N76.12 EBhiwani
+28.60 N76.27 ECharkhi Dadri
+29.95 N74.73 EDabwali
+28.38 N77.30 EFaridabad
+29.13 N76.70 EGohana
+29.17 N75.72 EHisar
+30.18 N77.29 EJagadhri
+29.31 N76.30 EJind
+29.81 N76.40 EKaithal
+29.69 N76.97 EKarnal
+28.04 N76.10 ENarnaul
+29.62 N76.12 ENarwana
+28.15 N77.32 EPalwal
+30.70 N76.88 EPanchkula
+29.39 N76.96 EPanipat
+28.19 N76.60 ERewari
+28.90 N76.58 ERohtak
+29.53 N75.03 ESirsa
+28.99 N77.01 ESonipat
+29.98 N76.82 EThanesar
+29.70 N75.90 ETohana
+30.14 N77.28 EYamunanagar
+31.11 N77.16 EShimla
+33.73 N75.15 EAnantnag
+34.20 N74.35 EBaramula
+Bari Brahmana
+32.71 N74.85 EJammu
+32.37 N75.52 EKathua
+34.30 N74.47 ESopur
+34.09 N74.79 ESrinagar
+32.93 N75.13 EUdhampur
+22.80 N86.04 EAdityapur
+22.82 N86.20 EBagbahra
+23.79 N86.38 EBhuli
+23.78 N85.96 EBokaro
+22.56 N85.80 EChaibasa
+23.65 N86.17 EChas
+24.05 N84.06 EDaltenganj
+24.49 N86.69 EDevghar
+23.80 N86.42 EDhanbad
+24.01 N85.36 EHazaribag
+22.79 N86.20 EJamshedpur
+23.76 N86.42 EJharia
+24.43 N85.52 EJhumri Tilaiya
+23.79 N86.36 EJorapokhar
+23.80 N86.28 EKatras
+23.43 N84.68 ELohardaga
+22.85 N86.21 EMango
+23.68 N85.86 EPhusro
+23.63 N85.51 ERamgarh
+23.36 N85.33 ERanchi
+25.25 N87.62 ESahibganj
+23.64 N85.37 ESaunda
+23.68 N86.49 ESindari
+16.19 N75.69 EBagalkot
+12.97 N77.56 EBangalore
+17.87 N76.95 EBasavakalyan
+15.86 N74.50 EBelgaum
+15.14 N76.91 EBellary
+13.84 N75.69 EBhadravati
+17.92 N77.52 EBidar
+16.83 N75.71 EBijapur
+13.01 N77.63 EBommanahalli
+13.05 N77.59Byatarayanapura
+14.32 N76.65 EChallakere
+11.92 N76.95 EChamrajnagar
+12.66 N77.19 EChannapatna
+13.47 N77.73 EChik Ballapur
+13.32 N75.76 EChikmagalur
+13.40 N78.05 EChintamani
+14.23 N76.39 EChitradurga
+13.01 N77.49 EDasarahalli
+14.46 N75.92 EDavanagere
+13.30 N77.52 EDod Ballapur
+15.44 N75.63 EGadag
+15.44 N76.52 EGangawati
+16.18 N74.81 EGokak
+17.34 N76.82 EGulbarga
+14.52 N75.80 EHarihar
+13.01 N76.08 EHassan
+14.80 N75.40 EHaveri
+13.97 N76.60 EHiriyur
+13.07N77.80EHosakote
+15.28 N76.37 EHospet
+15.36 N75.13 EHubli
+15.97 N76.13 EIlkal
+16.51 N75.28 EJamkhandi
+12.54 N77.42 EKanakapura
+14.82 N74.12 EKarwar
+13.14 N78.13 EKolar
+12.15 N77.12 EKollegal
+15.35 N76.15 EKoppal
+12.97 N77.74 EKrishnarajapura
+13.07 N77.79 EMahadevapura
+12.31 N76.65 EMaisuru
+12.54 N76.89 EMandya
+12.88 N74.84 EMangaluru
+16.41 N74.38 ENipani
+13.50 N75.99 EPattanagere
+12.77 N75.22 EPuttur
+16.47 N75.11 ERabkavi
+16.21 N77.35 ERaichur
+12.72 N77.27 ERamanagaram
+14.62 N75.61 ERanibennur
+12.97 N78.28 ERobertsonpet
+14.17 N75.03 ESagar
+17.13 N76.93 EShahabad
+16.70 N76.83 EShahpur
+13.93 N75.57 EShimoga
+16.52 N76.75 EShorapur
+13.38 N77.87 ESidlaghatta
+13.75 N76.90 ESira
+14.62 N74.85 ESirsi
+13.27 N76.48 ETiptur
+13.34 N77.10 ETumkur
+13.35 N74.75 EUdupi
+12.80 N74.85 EUllal
+16.77 N77.13 EYadgir
+13.10 N77.60 EYelahanka
+9.50 N76.33 EAlappuzha
+11.18 N75.82 EBeypur
+11.21 N75.84 ECheruvannur
+11.36 N76.30 EEdakkara
+10.03 N76.32 EEdathala
+10.05 N76.27 EKalamassery
+10.14 N77.12 EKannan Devan Hills
+12.34 N75.09 EKannangad
+11.86 N75.35 EKannur
+9.17 N76.49 EKayankulam
+10.02 N76.22 EKochi
+8.89 N76.58 EKollam
+9.60 N76.52 EKottayam
+11.43 N75.70 EKoyilandi
+11.26 N75.78 EKozhikkod
+10.65 N76.08 EKunnamkulam
+11.07 N76.06 EMalappuram
+11.12 N76.11 EManjeri
+8.61 N77.00 ENedumangad
+8.40 N77.08 ENeyyattinkara
+10.78 N76.65 EPalakkad
+Pallichal
+12.10 N75.19 EPayyannur
+10.78 N75.92 EPonnani
+12.03 N75.36 ETalipparamba
+11.75 N75.49 EThalassery
+8.51 N76.95 EThiruvananthapuram
+9.94 N76.35 EThrippunithura
+10.52 N76.21 EThrissur
+10.91 N75.92 ETirur
+9.39 N76.57 ETiruvalla
+11.61 N75.58 EVadakara
+24.57 N77.72 EAshoknagar
+21.80 N80.18 EBalaghat
+23.85 N77.93 EBasoda
+21.92 N77.90 EBetul
+26.57 N78.77 EBhind
+23.24 N77.40 EBhopal
+24.20 N78.20 EBinaEtawa
+21.33 N76.22 EBurhanpur
+24.92 N79.58 EChhatarpur
+22.07 N78.94 EChhindwara
+25.90 N78.33 EDabra
+23.85 N79.44 EDamoh
+25.67 N78.45 EDatia
+22.97 N76.05 EDewas
+22.60 N75.29 EDhar
+26.43 N78.45 EGohad
+24.65 N77.30 EGuna
+26.23 N78.17 EGwalior
+22.33 N77.11 EHarda
+22.75 N77.71 EHoshangabad
+22.72 N75.86 EIndore
+22.62 N77.76 EItarsi
+23.17 N79.94 EJabalpur
+23.16 N79.95 EJabalpur Cantonment
+23.64 N75.11 EJaora
+21.83 N76.35 EKhandwa
+21.83 N75.60 EKhargone
+23.10 N77.52 EMandidip
+24.07 N75.07 EMandsaur
+22.56 N75.75 EMau
+26.51 N77.99 EMorena
+23.85 N80.39 EMurwara
+23.46 N75.42 ENagda
+24.47 N74.87 ENimach
+Pithampur
+24.45 N77.20 ERaghogarh
+23.35 N75.03 ERatlam
+24.53 N81.29 ERewa
+23.85 N78.75 ESagar
+22.04 N78.27 ESarni
+24.58 N80.83 ESatna
+23.20 N77.08 ESehore
+21.68 N75.10 ESendhwa
+22.10 N79.55 ESeoni
+23.30 N81.36 EShahdol
+23.43 N76.27 EShajapur
+25.67 N76.70 ESheopur
+25.43 N77.65 EShivapuri
+24.42 N81.88 ESidhi
+23.84 N82.27 ESingrauli
+24.74 N78.83 ETikamgarh
+23.19 N75.78 EUjjain
+23.53 N77.80 EVidisha
+21.26 N77.50 EAchalpur
+19.10 N74.74 EAhmadnagar
+20.71 N77.00 EAkola
+21.10 N77.05 EAkot
+21.05 N75.06 EAmalner
+18.73 N76.38 EAmbajogai
+20.95 N77.76 EAmravati
+21.16 N77.31 EAnjangaon
+19.89 N75.32 EAurangabad
+19.15 N73.27 EBadlapur
+19.85 N79.35 EBallarpur
+18.15 N74.58 EBaramati
+18.24 N75.69 EBarsi
+19.32 N77.17 EBasmat
+20.11 N79.12 EBhadravati
+21.18 N79.65 EBhandara
+19.30 N73.05 EBhiwandi
+21.05 N75.78 EBhusawal
+18.99 N75.76 EBid
+18.96 N72.82 EMumbai
+20.54 N76.18 EBuldana
+20.46 N74.99 EChalisgaon
+19.96 N79.30 EChandrapur
+20.35 N76.25 EChikhli
+17.53 N73.52 EChiplun
+21.25 N75.28 EChopda
+19.97 N72.73 EDahanu
+19.95 N73.84 EDeolali
+20.90 N74.77 EDhule
+Digdoh
+18.55 N77.60 EDiglur
+20.17 N80.00 EGadchiroli
+21.47 N80.20 EGondiya
+20.56 N78.83 EHinganghat
+19.72 N77.14 EHingoli
+16.69 N74.46 EIchalkaranji
+21.01 N75.56 EJalgaon
+19.85 N75.88 EJalna
+19.25 N73.16 EKalyan
+21.23 N79.20 EKamthi
+20.48 N77.48 EKaranja
+18.57 N73.83 EKhadki
+20.70 N76.56 EKhamgaon
+18.78 N73.33 EKhopoli
+16.70 N74.22 EKolhapur
+19.88 N74.48 EKopargaon
+18.41 N76.58 ELatur
+18.75 N73.42 ELonavale
+20.56 N74.52 EMalegaon
+20.90 N76.19 EMalkapur
+20.26 N74.43 EManmad
+19.29 N72.85 EMira Bhayandar
+21.16 N79.08 ENagpur
+19.43 N72.78 ENalasopara
+19.17 N77.29 ENanded
+21.38 N74.23 ENandurbar
+20.01 N73.78 ENashik
+19.34 N72.90 ENavghar
+19.11 N73.06 ENavi Mumbai
+19.00 N73.10 ENavi Mumbai
+18.17 N76.03 EOsmanabad
+19.68 N72.75 EPalghar
+17.68 N75.31 EPandharpur
+19.27 N76.76 EParbhani
+17.98 N74.43 EPhaltan
+18.62 N73.80 EPimpri
+18.53 N73.84 EPune
+18.50 N73.88 EPune Cantonment
+19.91 N77.57 EPusad
+17.00 N73.29 ERatnagiri
+16.86 N74.57 ESangliMiraj
+17.70 N74.00 ESatara
+21.55 N74.47 EShahada
+20.78 N76.68 EShegaon
+21.35 N74.88 EShirpur
+17.67 N75.89 ESholapur
+19.63 N74.64 EShrirampur
+20.30 N75.65 ESillod
+19.20 N72.97 EThana
+18.40 N77.11 EUdgir
+19.23 N73.15 EUlhasnagar
+17.05 N74.27 EUran Islampur
+19.36 N72.80 EVasai
+19.47 N72.79 EVirar
+Wadi
+20.07 N78.95 EWani
+20.75 N78.60 EWardha
+21.47 N78.27 EWarud
+20.10 N77.13 EWashim
+20.41 N78.13 EYavatmal
+24.79 N93.94 EImphal
+25.57 N91.87 EShillong
+25.52 N90.22 ETura
+23.71 N92.71 EAizawl
+22.88 N92.73 ELunglei
+25.92 N93.73 EDimapur
+25.67 N94.11 EKohima
+26.10 N94.27 EWokha
+20.71 N83.50 EBalangir
+21.49 N86.95 EBaleshwar
+22.12 N85.40 EBarbil
+21.34 N83.61 EBargarh
+21.95 N86.73 EBaripada
+21.06 N86.52 EBhadrak
+19.91 N83.17 EBhawanipatna
+20.27 N85.84 EBhubaneswar
+19.32 N84.80 EBrahmapur
+21.82 N83.91 EBrajrajnagar
+20.67 N85.60 EDhenkanal
+18.86 N82.56 EJaypur
+21.87 N84.01 EJharsuguda
+20.47 N85.88 EKataka
+21.63 N85.58 EKendujhar
+20.32 N86.62 EParadwip
+19.81 N85.83 EPuri
+22.24 N84.81 ERaurkela
+Raurkela Industrial Township
+19.18 N83.41 ERayagada
+21.47 N83.97 ESambalpur
+18.69 N82.86 ESunabeda
+10.93 N79.83 EKaraikal
+11.94 N79.77 EOzhukarai
+11.94 N79.83 EPondicherry
+30.14 N74.20 EAbohar
+31.64 N74.87 EAmritsar
+30.39 N75.54 EBarnala
+31.82 N75.21 EBatala
+30.17 N74.97 EBathinda
+30.37 N75.87 EDhuri
+30.68 N74.74 EFaridkot
+30.41 N74.02 EFazilka
+30.92 N74.61 EFirozpur
+30.95 N74.60 EFirozpur Cantonment
+30.66 N76.31 EGobindgarh
+32.04 N75.40 EGurdaspur
+31.53 N75.91 EHoshiarpur
+30.78 N75.48 EJagraon
+31.33 N75.57 EJalandhar
+31.38 N75.38 EKapurthala
+30.71 N76.21 EKhanna
+30.59 N74.80 EKot Kapura
+30.91 N75.84 ELudhiana
+30.23 N74.48 EMalaut
+30.54 N75.87 EMaler Kotla
+29.98 N75.39 EMansa
+30.82 N75.17 EMoga
+30.78 N76.69 EMohali
+32.27 N75.64 EPathankot
+30.32 N76.39 EPatiala
+31.22 N75.76 EPhagwara
+30.48 N76.59 ERajpura
+30.98 N76.52 ERupnagar
+30.15 N76.20 ESamana
+30.25 N75.84 ESangrur
+30.65 N76.38 ESirhind
+30.13 N75.80 ESunam
+31.45 N74.92 ETarn Taran
+26.45 N74.64 EAjmer
+27.56 N76.60 EAlwar
+25.83 N72.23 EBalotra
+23.54 N74.44 EBanswara
+25.10 N76.51 EBaran
+26.65 N77.60 EBari
+25.75 N71.39 EBarmer
+26.10 N74.30 EBeawar
+27.23 N77.49 EBharatpur
+25.35 N74.63 EBhilwara
+Bhiwadi
+28.03 N73.32 EBikaner
+25.45 N75.63 EBundi
+24.89 N74.63 EChittaurgarh
+27.17 N75.72 EChomun
+28.31 N74.96 EChuru
+26.88 N76.33 EDaosa
+
